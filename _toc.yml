@@ -1,2 +1,11 @@
 format: jb-book
-root: project_3.ipynb
+root: index
+parts:
+  - caption: Projects
+    chapters:
+      - file: Project_1
+        title: Project 1
+      - file: Project_2
+        title: Project 2
+      - file: project_3_data
+        title: Project 3
