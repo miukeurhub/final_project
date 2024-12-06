@@ -2,4 +2,4 @@ title: Lab_12
 author: Mugi Silih Mulyadi
 
 execute:
-  execute_notebooks: off
+  execute_notebooks: force
